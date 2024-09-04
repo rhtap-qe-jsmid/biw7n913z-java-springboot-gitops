@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: biw7n913z-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/biw7n913z-java-springboot-gitops
